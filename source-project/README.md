@@ -1,0 +1,2 @@
+## source-project
+This folder contains the source code for the application. Normally, the `main.py` file is only needed. To run it, you must properly `pip install` the dependencies of this application. The `Pipfile` and `Pipfile.lock` are for reference for anyone trying to run the source code via a `pipenv` which is less painful then installing dependencies. The `main.ui` file is an optional one as it contains the template for the UI which can be opened and edited via Qt Designer.

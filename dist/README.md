@@ -1,0 +1,2 @@
+## dist
+This folder contains the built application. You can download and unzip this folder to a specific location. After that, you can click on `PyTTS.exe` and run the application. If you don't want the fuss, you can directly download the `installer.exe` in the parent directory and run it which will install and unzip the application in the specified location.
